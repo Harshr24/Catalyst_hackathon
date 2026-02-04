@@ -2,7 +2,7 @@
 **Catalyst Hackathon Submission**
 
 ## Overview
-EduMentor AI is an interactive educational assistant built during the **Catalyst Hackathon**. The application provides an AI-powered learning companion that helps students with concept explanations, study notes generation, quizzes, and interactive educational games — all through a clean and user-friendly interface.
+EduMentor AI is an interactive educational assistant providing an AI-powered learning companion that helps students with concept explanations, study notes generation, quizzes, and interactive educational games — all through a clean and user-friendly interface.
 The system leverages **large language models (LLMs)** integrated via **LangChain**, deployed using **Streamlit**, and designed to support both online and offline educational use cases.
 
 ---
